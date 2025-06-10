@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/7c5aac23-71f2-43d6-bd8c-7eba948a6b43
 3. Add Project to Unity Hub In the "Projects" tab of Unity Hub, click "Add" and then "Add project from disk". Point it to the directory where you cloned the GitHub repository.
 4. Open and Play the Scene Once the project opens in the Unity Editor, drag the Terrain and Post-process (optional) objects from the Assets/Prefabs folder into your main scene, click Play.
 
-## Dependancies for Training
+## Dependencies for Training
 Project uses addon ml-agents for training as it provides API between Unity environment and python and also has implemented RL algorithms.
 
 * For installation, please follow the official guide in the ML-Agents web documentation: https://unity-technologies.github.io/ml-agents/Installation/ 

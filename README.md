@@ -3,7 +3,7 @@
 
 ## Short Demonstration
 
-<video src="/workspaces/Rover/Unity-clip.mp4" controls width="400" height="200"></video>
+[Demo Clip](./Unity-clip.mp4)
 
 ## Installation
 
